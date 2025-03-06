@@ -7,6 +7,14 @@ This is a support repository for UAL x WiCS x NUL's HackSprint.
 Go to [bootstrap-templates](https://github.com/hm2412/HackSprint25/blob/main/bootstrap-templates) for basic templates that can provide you with relevant features. This directory is to help teams who are unfamiliar with web development or are unsure where to start.  
 If you use a template, you will not be penalised, but **please** note this in your project pitch.
 
+## Task
+
+Design, build, and pitch a website or app that you would have wanted when you began a **hobby or interest**.  
+
+Whether it’s a financial planning tool, a learning platform, a progress tracker, or a social hub – this hackathon is about blending technology, creativity, and real-world problem-solving.  
+
+Participants will need to build feature-rich prototypes, optimise for user experience, and prepare a pitch for their innovative solution. 
+
 ## FAQ
 
 **What languages or frameworks can we use?**  
@@ -30,7 +38,8 @@ Development
 * **Dark Mode**
 * **Financial Tool Integration**
 * **Progress Visualisation**
-* **Reward System**  
+* **Token Reward System**  
+* **Most Accessible**  
 
 Pitch  
 * **Best User Persona**
