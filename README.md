@@ -5,7 +5,11 @@ This is a support repository for UAL x WiCS x NUL's HackSprint.
 ## Templates
 
 Go to [bootstrap-templates](https://github.com/hm2412/HackSprint25/blob/main/bootstrap-templates) for basic templates that can provide you with relevant features. This directory is to help teams who are unfamiliar with web development or are unsure where to start.  
-If you use a template, you will not be penalised, but **please** note this in your project pitch.
+If you use a template, you will not be penalised, but **please** note this in your project pitch.  
+
+## Submission
+Submit your project via [Devpost](https://hacksprint-25.devpost.com/). Remember to create an account in advance and select your teammates – they will have been assigned to you.  
+We suggest beginning the submission process from **4pm**, as there is quite a bit of information to fill out. Assigning a member of your team to handle submission is recommended. **Submission deadline is 4:30pm.**
 
 ## Task
 
